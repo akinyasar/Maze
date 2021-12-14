@@ -23,3 +23,10 @@ def solve(self):
 fonksiyonundaki ```frontier = QueueFrontier()``` atamasını ```frontier = StackFrontier()``` olarak değiştirmelisiniz. Bu sayede algoritma BFS'den DFS'e geçmiş olacaktır.
 
 - SearchAlgorithms.pptx dosyasında algoritmalar hakkında hazırladığım sunum bulunmaktadır.
+
+## Gereklilikler
+- Önerilen Python 3.7.6 sürümü
+- pillow kütüphanesi -> indirmek için dosya dizininde terminale;
+ ```pip install pillow```
+ 
+
